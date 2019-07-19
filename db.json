@@ -1,0 +1,95 @@
+{
+    "sri-lotto": {
+        "page": 1,
+        "data": [
+            {
+                "draw": "1252",
+                "date": "2019-01-09",
+                "results": [
+                    {
+                        "text": "1",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "3",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "5",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "6",
+                        "type": "normal"
+                    }
+                ]
+            },
+            {
+                "draw": "1255",
+                "date": "2019-01-10",
+                "results": [
+                    {
+                        "text": "4",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "3",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "5",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "6",
+                        "type": "normal"
+                    }
+                ]
+            },
+            {
+                "draw": "1255",
+                "date": "2019-01-11",
+                "results": [
+                    {
+                        "text": "1",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "1",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "5",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "6",
+                        "type": "normal"
+                    }
+                ]
+            },
+            {
+                "draw": "1265",
+                "date": "2019-01-12",
+                "results": [
+                    {
+                        "text": "4",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "5",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "9",
+                        "type": "normal"
+                    },
+                    {
+                        "text": "6",
+                        "type": "normal"
+                    }
+                ]
+            }
+        ]
+    }
+}
